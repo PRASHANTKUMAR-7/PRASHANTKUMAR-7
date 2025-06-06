@@ -32,6 +32,18 @@ I'm a passionate student on a journey to become a skilled software developer and
 
 ---
 
+## 🏅 Achievements
+
+- ⭐⭐⭐ 3 Star Coder on HackerRank  
+- ⭐ 1 Star Coder on CodeChef  
+- 📜 Certified in UX/UI Designing from Google  
+- 📜 Certified in React Basics from Meta  
+- 🚀 Currently pursuing React Advanced Certification from Meta  
+- 🏆 4th place at TiE Dehradun  
+- 🌍 Participated with SYAM Association in Delhi, contributing to an international record for creating a digital weather record
+
+---
+
 ## 🌟 Featured Projects
 
 ### [Weather App (React)](https://github.com/PRASHANTKUMAR-7/weather-app)
