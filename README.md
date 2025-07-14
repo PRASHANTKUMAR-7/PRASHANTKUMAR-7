@@ -52,13 +52,13 @@ I'm a passionate student on a journey to become a skilled software developer and
 
 **CodeChef Streak Badges:**
 
-<img src="./100.png" width="300" alt="CodeChef 100 Days Streak Badge" />
-<img src="./50.jpeg" width="300" alt="CodeChef 50 Days Streak Badge" />
+![CodeChef 100 Days](https://img.shields.io/badge/CodeChef-100%20Days%20Diamond%20Streak-blue?style=flat&logo=codechef&logoColor=white)
+![CodeChef 50 Days](https://img.shields.io/badge/CodeChef-50%20Days%20Gold%20Streak-yellow?style=flat&logo=codechef&logoColor=white)
 
 **LeetCode Streak Badges:**
 
-<img src="./lc100.png" width="300" alt="LeetCode 100 Days Streak Badge" />
-<img src="./lc50.png" width="300" alt="LeetCode 50 Days Streak Badge" />
+![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%2B%20Days%20Solving-black?style=flat&logo=leetcode&logoColor=orange)
+![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%2B%20Days%20Badge-brightgreen?style=flat&logo=leetcode&logoColor=orange)
 
 ---
 
