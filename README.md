@@ -24,6 +24,7 @@ I'm a passionate student on a journey to become a skilled software developer and
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 **Programming Languages & Proficiency:**  
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> Java: <b>Intermediate</b>  
@@ -34,28 +35,45 @@ I'm a passionate student on a journey to become a skilled software developer and
 
 ## 🏅 Achievements
 
-- ⭐⭐⭐ 3 Star Coder on HackerRank  
-- ⭐ 1 Star Coder on CodeChef  
+![HackerRank](https://img.shields.io/badge/HackerRank-3%20Star-green?style=flat&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-1%20Star-orange?style=flat&logo=codechef&logoColor=white)
+
 - 📜 Certified in UX/UI Designing from Google  
 - 📜 Certified in React Basics from Meta  
 - 🚀 Currently pursuing React Advanced Certification from Meta  
 - 🏆 4th place at TiE Dehradun  
-- 🌍 Participated with SYAM Association in Delhi, contributing to an international record for creating a digital weather record
+- 🌍 Participated with SYAM Association in Delhi, contributing to an international record for creating a digital weather record  
+- 🎓 Delegate at International Model United Nations (IMUN)  
+- 🧪 National-level Competitor in JNNSMEE (Jawaharlal Nehru National Science, Mathematics and Environment Exhibition)
+
+---
+
+## 📸 Streak Certificates
+
+**CodeChef Streak Badges:**
+
+<img src="./100.png" width="300" alt="CodeChef 100 Days Streak Badge" />
+<img src="./50.jpeg" width="300" alt="CodeChef 50 Days Streak Badge" />
+
+**LeetCode Streak Badges:**
+
+<img src="./lc100.png" width="300" alt="LeetCode 100 Days Streak Badge" />
+<img src="./lc50.png" width="300" alt="LeetCode 50 Days Streak Badge" />
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Weather App (React)](https://github.com/PRASHANTKUMAR-7/weather-app)
+### [🌤 Weather App (React)](https://github.com/PRASHANTKUMAR-7/weather-app)
 A modern, responsive weather app built using React. Get real-time weather updates for any city with a sleek and user-friendly interface.
 
-### [Wanderlust](https://github.com/PRASHANTKUMAR-7/wanderlust)
+### [✈ Wanderlust](https://github.com/PRASHANTKUMAR-7/wanderlust)
 A travel-focused web app designed to inspire wanderers and travelers. Discover destinations, plan trips, and fuel your wanderlust!
 
-### [Golf Site](https://github.com/PRASHANTKUMAR-7/golf-site)
+### [🏌 Golf Site](https://github.com/PRASHANTKUMAR-7/golf-site)
 A website dedicated to golf enthusiasts, featuring the latest updates, tutorials, and resources for improving your golf game.
 
-### [Todo App](https://github.com/PRASHANTKUMAR-7/todo-app)
+### [📝 Todo App](https://github.com/PRASHANTKUMAR-7/todo-app)
 A simple and intuitive Todo application to help you keep track of your daily tasks. Built with React and Node.js for a seamless experience.
 
 <sub>*Check out each repo for more details!*</sub>
@@ -77,9 +95,9 @@ A simple and intuitive Todo application to help you keep track of your daily tas
 
 ## 🎯 Fun Facts
 
-- 📖 I love reading financial books
-- 🎬 Enjoy video editing in my free time
-- 🎮 Big fan of playing COD Mobile
+- 📖 I love reading financial books  
+- 🎬 Enjoy video editing in my free time  
+- 🎮 Big fan of playing COD Mobile  
 
 ---
 
