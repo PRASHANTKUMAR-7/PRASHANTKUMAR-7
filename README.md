@@ -57,7 +57,7 @@ I'm a passionate student on a journey to become a skilled software developer and
 
 **LeetCode Streak Badges:**
 
-![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%2B%20Days%20Solving-black?style=flat&logo=leetcode&logoColor=orange)
+![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%2B%20Days%20Solving-orange?style=flat&logo=leetcode&logoColor=orange)
 ![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%2B%20Days%20Badge-brightgreen?style=flat&logo=leetcode&logoColor=orange)
 
 ---
