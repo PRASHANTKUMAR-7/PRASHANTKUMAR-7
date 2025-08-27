@@ -50,7 +50,7 @@ I'm a passionate student on a journey to become a skilled software developer and
 - 📜 Certified in React Basics from Meta
 - 📜 Certified in React Advance from Meta
 - 📜 Certified in Node and Express from IBM
-- 🚀 Currently pursuing React Advanced Certification from Meta  
+- 🚀 Currently pursuing AWS Certification from Amazon  
 - 🏆 4th place at TiE Dehradun  
 - 🌍 Participated with SYAM Association in Delhi, contributing to an international record for creating a digital weather record  
 - 🎓 Delegate at International Model United Nations (IMUN)  
