@@ -33,6 +33,9 @@ I **love to learn new things**, and I'm currently exploring **DevOps, AI, LangCh
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?style=flat&logo=hoppscotch&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 
+### ⚙️ DevOps (Ongoing)  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 ### 🤖 AI & Automation  
 <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/n8n-A300D8?style=for-the-badge&logo=n8n&logoColor=white"/>
 
@@ -106,18 +109,6 @@ Simple and elegant static golf-learning website.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kumar-tech/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats (Dark Mode)
-
-
-<img src="https://streak-stats.demolab.com/?user=PRASHANTKUMAR-7&theme=tokyonight" height="160px"/>
-
 
 </div>
 
