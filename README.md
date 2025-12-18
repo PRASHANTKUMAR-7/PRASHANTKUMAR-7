@@ -17,6 +17,7 @@
 I’m a passionate software development student driven by curiosity and the desire to build meaningful technology. I enjoy full-stack development, love solving real-world problems, and aim to improve a little every day.
 
 I **love to learn new things**, and I'm currently exploring **DevOps, AI, LangChain, HuggingFace, automation workflows (n8n), and modern backend tooling** to expand my skills across the tech ecosystem.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASHANTKUMAR-7&label=Profile%20views&color=0e75b6&style=flat" alt="kUMARPRASHANT" /> </p>
 
 ---
 
