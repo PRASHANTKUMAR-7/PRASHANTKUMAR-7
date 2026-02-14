@@ -101,8 +101,8 @@ Simple and elegant static golf-learning website.
 **GitHub:** [Golf Site](https://github.com/PRASHANTKUMAR-7/golf_site)
 
 ### 📱 **QR Code Scanner & Generator**
-A Dart & Flutter app to quickly scan and generate QR codes with a simple, user-friendly interface.
-**GitHub:** [QR Code Scanner & Generator]([https://github.com/PRASHANTKUMAR-7/qr_code_scanner_generator](https://github.com/PRASHANTKUMAR-7/Flutter_Projects/tree/c37662a30bfe68c11c78a1913c21e4b5693d52ad/qr_code_scanner_generator))
+A Dart & Flutter app to quickly scan and generate QR codes with a simple, user-friendly interface.  
+**GitHub:** [QR Code Scanner & Generator](https://github.com/PRASHANTKUMAR-7/Flutter_Projects.git)
 
 
 ---
