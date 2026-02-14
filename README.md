@@ -16,7 +16,7 @@
 
 I’m a passionate software development student driven by curiosity and the desire to build meaningful technology. I enjoy full-stack development, love solving real-world problems, and aim to improve a little every day.
 
-I **love to learn new things**, and I'm currently exploring **DevOps, AI, LangChain, HuggingFace, automation workflows (n8n), and modern backend tooling** to expand my skills across the tech ecosystem.
+I **love to learn new things**, and I'm currently exploring **DevOps, Flutter, AI, LangChain, HuggingFace, automation workflows (n8n), and modern backend tooling** to expand my skills across the tech ecosystem.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASHANTKUMAR-7&label=Profile%20views&color=0e75b6&style=flat" alt="kUMARPRASHANT" /> </p>
 
 ---
@@ -24,7 +24,12 @@ I **love to learn new things**, and I'm currently exploring **DevOps, AI, LangCh
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+
 
 ### **Backend + Database**
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -44,6 +49,8 @@ I **love to learn new things**, and I'm currently exploring **DevOps, AI, LangCh
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> **Java:** Intermediate  
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> **JavaScript:** Intermediate  
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> **Python:** Beginner  
+- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> **Dart:** Beginner
+
 
 ---
 
@@ -55,7 +62,8 @@ I **love to learn new things**, and I'm currently exploring **DevOps, AI, LangCh
 - 📜 UX/UI Designing — Google  
 - 📜 React Basics & Advanced — Meta  
 - 📜 Node & Express — IBM  
-- 🚀 Currently pursuing AWS Certification  
+- 🚀 Currently pursuing AWS Certification
+- 🚀 Currently pursuing Docker and Kubernetes Certification
 - 🏆 4th place at TiE Dehradun  
 - 🌍 Contributed to an international digital weather record  
 - 🎓 Delegate at IMUN  
@@ -93,6 +101,11 @@ A modern React weather app with live API data.
 ### 🏌 **Golf Site**
 Simple and elegant static golf-learning website.  
 **GitHub:** [Golf Site](https://github.com/PRASHANTKUMAR-7/golf_site)
+
+### 📱 **QR Code Scanner & Generator**
+A Dart & Flutter app to quickly scan and generate QR codes with a simple, user-friendly interface.
+**GitHub:** [QR Code Scanner & Generator]([https://github.com/PRASHANTKUMAR-7/qr_code_scanner_generator](https://github.com/PRASHANTKUMAR-7/Flutter_Projects/tree/c37662a30bfe68c11c78a1913c21e4b5693d52ad/qr_code_scanner_generator))
+
 
 ---
 
