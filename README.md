@@ -60,7 +60,7 @@ I **love to learn new things**, and I'm currently exploring **DevOps, Flutter, A
 - 📜 UX/UI Designing — Google  
 - 📜 React Basics & Advanced — Meta  
 - 📜 Node & Express — IBM  
-- 🚀 Currently pursuing AWS Certification
+- 📜 AWS Certification
 - 🚀 Currently pursuing Docker and Kubernetes Certification
 - 🏆 4th place at TiE Dehradun  
 - 🌍 Contributed to an international digital weather record  
