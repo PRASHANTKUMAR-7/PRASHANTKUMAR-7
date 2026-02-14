@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180&section=header&text=Prashant%20Kumar&fontSize=50&fontColor=00F5FF&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+Making;Tech+Explorer+|+Full+Stack+Learner+|+Esports;Exploring+DevOps%2C+AI%2C+LangChain+%26+n8n;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+Making;Tech+Explorer+|+Full+Stack+|+Esports;Exploring+DevOps%2C+AI%2C+LangChain%2C+Dart+%26+Flutter;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
+
 
 ### 💡 *Building. Breaking. Learning. Growing.*
 
