@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- DARK MODE HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180&section=header&text=Prashant%20Kumar&fontSize=50&fontColor=00F5FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180&section=header&text=Prashant%20Kumar&fontSize=50&fontColor=FFD700&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+Making;Tech+Explorer+|+Full+Stack+|+Esports;Exploring+DevOps%2C+AI%2C+LangChain%2C+Dart+%26+Flutter;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF8C00&center=true&vCenter=true&width=600&lines=Software+Developer+in+Making;Tech+Explorer+%7C+Full+Stack+%7C+Esports;Exploring+DevOps%2C+AI%2C+ML+%26+Agentic+AI;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
 
 
 ### 💡 *Building. Breaking. Learning. Growing.*
