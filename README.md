@@ -72,8 +72,8 @@ Right now I'm deepening my skills in **containers and orchestration (Docker, Kub
 - 🌍 Contributed to an international digital weather record  
 - 🎓 Delegate at IMUN  
 - 🧪 National-level JNNSMEE participant
-- 🧑‍💻 Founding Engineer at Zestro CRM — shipped a loyalty points feature that drove a 30% increase in repeat customers for a pilot cafe customer managing 400+ orders
-
+- 🧑‍💻 Founding Engineer at Zestro — shipped a loyalty points feature that drove a 30% increase in repeat customers for a pilot cafe customer managing 400+ orders
+- 🔐 Implemented Google OAuth 2.0 login (Passport.js) alongside existing JWT auth in Sprintly, without touching the existing email/password flow
 ---
 
 ## 📸 Streak Certificates
