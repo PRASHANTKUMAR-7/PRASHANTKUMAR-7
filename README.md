@@ -68,7 +68,7 @@ Right now I'm deepening my skills in **containers and orchestration (Docker, Kub
 - 📜 Advanced React — Meta
 - 📜 React Basics — Meta
 - 📜 Build Dynamic User Interfaces (UI) for Websites — Google
-- 🏆 4th place at TiE Dehradun  
+- 🏆 3rd place at TiE Dehradun  
 - 🌍 Contributed to an international digital weather record  
 - 🎓 Delegate at IMUN  
 - 🧪 National-level JNNSMEE participant
