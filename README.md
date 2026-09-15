@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180&section=header&text=Prashant%20Kumar&fontSize=50&fontColor=FFD700&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF8C00&center=true&vCenter=true&width=600&lines=Software+Developer+in+Making;Tech+Explorer+%7C+Full+Stack+%7C+Esports;Exploring+DevOps%2C+AI%2C+ML+%26+Agentic+AI;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF8C00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+%26+PERN;Founding+Engineer+%40+Zestro;Building+Payments%2C+Real-Time+Systems+%26+Agentic+AI;Diving+into+DevOps%2C+Docker+%26+Kubernetes;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
 
 
 ### 💡 *Building. Breaking. Learning. Growing.*
@@ -15,9 +15,11 @@
 
 ## 🚀 About Me
 
-I’m a passionate software development student driven by curiosity and the desire to build meaningful technology. I enjoy full-stack development, love solving real-world problems, and aim to improve a little every day.
+I'm a Computer Science Engineering graduate (2026) and a passionate software developer driven by curiosity and the desire to build meaningful technology. I enjoy full-stack development, love solving real-world problems, and aim to improve a little every day.
 
-I **love to learn new things**, and I'm currently exploring **DevOps, Flutter, AI, LangChain, HuggingFace, automation workflows (n8n), and modern backend tooling** to expand my skills across the tech ecosystem.
+I've worked as a **Founding Engineer at Zestro CRM** and completed an internship at the **Jay Chaudhry Software Innovation Centre, IIT BHU Varanasi**, where I worked on LLM automation pipelines and AI-powered tooling. Along the way I've picked up payment integrations (Stripe), real-time systems (Socket.IO, WebRTC), and cloud deployment (Render, AWS).
+
+Right now I'm deepening my skills in **containers and orchestration (Docker, Kubernetes, OpenShift)** and **applied AI (LangChain, Hugging Face, Gemini AI, prompt engineering)**, with an eye toward becoming an **Agentic AI / MCP specialist** — building systems where AI models can reason, call tools, and act autonomously across a stack, not just answer questions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRASHANTKUMAR-7&label=Profile%20views&color=0e75b6&style=flat" alt="kUMARPRASHANT" /> </p>
 
 ---
@@ -26,22 +28,22 @@ I **love to learn new things**, and I'm currently exploring **DevOps, Flutter, A
 
 ### **Frontend**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 
 
 ### **Backend + Database**
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT%20%7C%20OAuth2.0-000000?style=flat&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
 
 ### **Tools**
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?style=flat&logo=hoppscotch&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Hoppscotch-FF6C37?style=flat&logo=hoppscotch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
 
 ### ⚙️ DevOps (Ongoing)  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 ### 🤖 AI & Automation  
-<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/n8n-A300D8?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-A300D8?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 ### **Programming Languages**
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> **Java:** Intermediate  
@@ -57,21 +59,27 @@ I **love to learn new things**, and I'm currently exploring **DevOps, Flutter, A
 ![HackerRank](https://img.shields.io/badge/HackerRank-3%20Star-green?style=flat&logo=hackerrank&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-1%20Star-orange?style=flat&logo=codechef&logoColor=white)
 
-- 📜 UX/UI Designing — Google  
-- 📜 React Basics & Advanced — Meta  
-- 📜 Node & Express — IBM  
-- 📜 AWS Certification
-- 🚀 Currently pursuing Docker and Kubernetes Certification
+- 📜 Flutter and Dart: Developing iOS, Android, and Mobile Apps — IBM
+- 📜 Maximize Productivity With AI Tools — Google
+- 📜 Introduction to AI — Google
+- 📜 Introduction to Containers w/ Docker, Kubernetes & OpenShift — IBM
+- 📜 Developing Back-End Apps with Node.js and Express — IBM
+- 📜 AWS Cloud Technical Essentials — AWS
+- 📜 Advanced React — Meta
+- 📜 React Basics — Meta
+- 📜 Build Dynamic User Interfaces (UI) for Websites — Google
 - 🏆 4th place at TiE Dehradun  
 - 🌍 Contributed to an international digital weather record  
 - 🎓 Delegate at IMUN  
-- 🧪 National-level JNNSMEE participant  
+- 🧪 National-level JNNSMEE participant
+- 🧑‍💻 Founding Engineer at Zestro CRM — shipped a loyalty points feature that drove a 30% increase in repeat customers for a pilot cafe customer managing 400+ orders
 
 ---
 
 ## 📸 Streak Certificates
 
 **LeetCode:**  
+![LeetCode 365 Days](https://img.shields.io/badge/LeetCode-365%20Days%20Streak-purple?style=flat)
 ![LeetCode 200 Days](https://img.shields.io/badge/LeetCode-200%20Days%20Streak-gold?style=flat)
 ![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100%2B%20Days-orange?style=flat)
 ![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%20Days-brightgreen?style=flat)
@@ -84,9 +92,24 @@ I **love to learn new things**, and I'm currently exploring **DevOps, Flutter, A
 
 ## 🌟 Featured Projects
 
+### 🧪 **TestWeaver**
+An AI-powered web application testing platform built during my internship at IIT (BHU) — automates browser testing from natural language prompts using the MERN stack, Playwright, Hugging Face, and LangChain, with JWT-secured REST APIs and Docker-based deployment.
+
+### 📋 **Sprintly**
+A MERN kanban-style ticket/board app with workspaces, team members, and email notifications — supports both classic email/password login and Google OAuth 2.0.  
+**GitHub:** [Sprintly](https://github.com/PRASHANTKUMAR-7/Sprintly)
+
+### 🛒 **IntelliWear**
+Full-stack AI-powered e-commerce platform (MERN + Stripe + Gemini AI) with 20+ REST APIs, JWT/OAuth authentication, and AI-driven product recommendations that improved discoverability by ~40%.  
+**GitHub:** [IntelliWear](https://github.com/PRASHANTKUMAR-7/IntelliWear)
+
 ### 💬 **PulseTalk**
 Real-time chat and video calling app using MERN, Socket.IO, JWT & WebRTC.  
 **GitHub:** [PulseTalk](https://github.com/PRASHANTKUMAR-7/PulseTalk)
+
+### 🏢 **Zestro**
+A CRM platform built as Founding Engineer, using React, TypeScript, and Material UI — currently live with a pilot customer managing 400+ orders.  
+**GitHub:** [Zestro CRM](https://github.com/PRASHANTKUMAR-7)
 
 ### ✈ **GlobeTreker**
 A full-stack travel campground platform with user reviews and dynamic EJS rendering.  
@@ -109,8 +132,8 @@ A Dart & Flutter app to quickly scan and generate QR codes with a simple, user-f
 
 ## 📚 Short Bio
 
-> “Code, learn, repeat!”  
-> I’m a growing developer who **loves learning new technologies** and is currently exploring **DevOps, AI, LangChain, HuggingFace, and automation workflows like n8n**. Staying curious and building consistently keeps me moving forward.
+> "Code, learn, repeat!"  
+> I'm a growing developer with a MERN foundation now sharpened by real auth systems, payments, and deployments — and I'm currently pushing into **containers, orchestration, and agentic AI (LangChain, HuggingFace, MCP protocols, n8n)**. From building a CRM as a founding engineer to shipping AI-powered platforms, staying curious and building consistently keeps me moving forward.
 
 ---
 
