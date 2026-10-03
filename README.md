@@ -91,10 +91,6 @@ Right now I'm deepening my skills in **containers and orchestration (Docker, Kub
 ---
 
 ## 🌟 Featured Projects
-
-### 🧪 **TestWeaver**
-An AI-powered web application testing platform built during my internship at IIT (BHU) — automates browser testing from natural language prompts using the MERN stack, Playwright, Hugging Face, and LangChain, with JWT-secured REST APIs and Docker-based deployment.
-
 ### 📋 **Sprintly**
 A MERN kanban-style ticket/board app with workspaces, team members, and email notifications — supports both classic email/password login and Google OAuth 2.0.  
 **GitHub:** [Sprintly](https://github.com/PRASHANTKUMAR-7/Sprintly)
@@ -107,9 +103,8 @@ Full-stack AI-powered e-commerce platform (MERN + Stripe + Gemini AI) with 20+ R
 Real-time chat and video calling app using MERN, Socket.IO, JWT & WebRTC.  
 **GitHub:** [PulseTalk](https://github.com/PRASHANTKUMAR-7/PulseTalk)
 
-### 🏢 **Zestro**
-A CRM platform built as Founding Engineer, using React, TypeScript, and Material UI — currently live with a pilot customer managing 400+ orders.  
-**GitHub:** [Zestro CRM](https://github.com/PRASHANTKUMAR-7)
+### 🧪 **TestWeaver**
+An AI-powered web application testing platform built during my internship at IIT (BHU) — automates browser testing from natural language prompts using the MERN stack, Playwright, Hugging Face, and LangChain, with JWT-secured REST APIs and Docker-based deployment.
 
 ### ✈ **GlobeTreker**
 A full-stack travel campground platform with user reviews and dynamic EJS rendering.  
