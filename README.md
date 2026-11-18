@@ -50,7 +50,7 @@ Right now I'm deepening my skills in **containers and orchestration (Docker, Kub
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> **JavaScript:** Intermediate  
 - <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> **TypeScript:** Intermediate  
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> **Python:** Beginner  
-- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> **Dart:** Beginner
+- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> **Dart:** Beginner 
 
 
 ---
