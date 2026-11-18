@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180&section=header&text=Prashant%20Kumar&fontSize=50&fontColor=FFD700&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF8C00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+%26+PERN;Founding+Engineer+%40+Zestro;Building+Payments%2C+Real-Time+Systems+%26+Agentic+AI;Diving+into+DevOps%2C+Docker+%26+Kubernetes;Always+Learning+New+Things+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF8C00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+%26+PERN;Founding+Engineer+%40+Zestro;Building+Payments%2C+Real-Time+Systems+%26+Agentic+AI;Diving+into+DevOps%2C+Docker+%26+Kubernetes;Always+Learning+New+Things+🌱)](https://git.io/typing-svg)
 
 
 ### 💡 *Building. Breaking. Learning. Growing.*
@@ -32,7 +32,7 @@ Right now I'm deepening my skills in **containers and orchestration (Docker, Kub
 
 
 ### **Backend + Database**
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT%20%7C%20OAuth2.0-000000?style=flat&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT%20%7C%20OAuth2.0-000000?style=flat&logo=jsonwebtoken&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/> 
 
 ### **Tools**
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> 
@@ -43,11 +43,12 @@ Right now I'm deepening my skills in **containers and orchestration (Docker, Kub
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 ### 🤖 AI & Automation  
-<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-A300D8?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini%20AI-8E7FB2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-A300D8?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 ### **Programming Languages**
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> **Java:** Intermediate  
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> **JavaScript:** Intermediate  
+- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> **TypeScript:** Intermediate  
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> **Python:** Beginner  
 - <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> **Dart:** Beginner
 
@@ -147,7 +148,7 @@ A Dart & Flutter app to quickly scan and generate QR codes with a simple, user-f
 <div align="center">
 
 <!-- MULTI-LANGUAGE THANK YOU TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=40&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+reading!;धन्यवाद!;Danke+fürs+Lesen!;Merci+d'avoir+lu+!;読んでくれてありがとう！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=40&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+reading!;धन्यवाद!;Danke+fürs+Lesen!;Merci+d’avoir+lu!;ありがとう!)](https://git.io/typing-svg)
 
 
 </div>
